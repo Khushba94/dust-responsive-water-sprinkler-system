@@ -1,5 +1,5 @@
 # Dust Responsive Water Sprinkler System
-This repository holds the code of a simple dust responsive water sprinkler system project. This system can get rid of dust by sprinkling water in its vicinity and also alert people if the dust level around them is hazardous. To see the system in action, watch this [video] (https://www.youtube.com/watch?v=iyoZcHU2n-o&feature=youtu.be&t=1m20s)
+This repository holds the code of a simple dust responsive water sprinkler system project. This system can get rid of dust by sprinkling water in its vicinity and also alert people if the dust level around them is hazardous. To see the system in action, watch this [video](https://www.youtube.com/watch?v=iyoZcHU2n-o&feature=youtu.be&t=1m20s)
 ### Software used
 - Arduino IDE
 
